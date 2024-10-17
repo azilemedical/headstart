@@ -29,8 +29,8 @@ const App = () => {
       <Navbar />
       <div className="max-w-7xl mx-auto pt-2 px-6">
         <Routes>
-          <Route path="/headstart" element={<Home />} />
-          <Route path="/headstart/staff" element={<Staff />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/staff" element={<Staff />} />
         </Routes>
         <Footer />
       </div>
