@@ -32,7 +32,7 @@ const HeroSection = () => {
 
           <a
             href="/staff"
-            className="bg-gradient-to-r from-blue-500 to-blue-600 text-white py-4 px-6 mx-3 rounded-md text-xl sm:text-xl lg:text-2xl"
+            className="w-100 bg-gradient-to-r from-blue-500 to-blue-600 text-white py-4 px-6 mx-3 rounded-md text-xl sm:text-xl lg:text-2xl"
           >
             Staff
           </a>
