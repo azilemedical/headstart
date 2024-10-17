@@ -24,13 +24,13 @@ export const testimonials = [
     user: "John Doe",
     company: "Stellar Solutions",
     image: user1,
-    text: "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.",
+    text: "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results.",
   },
   {
     user: "Jane Smith",
     company: "Blue Horizon Technologies",
     image: user2,
-    text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental.",
+    text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental",
   },
   {
     user: "David Johnson",
