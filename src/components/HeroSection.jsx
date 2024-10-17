@@ -13,7 +13,7 @@ const HeroSection = () => {
         }}
       ></div>
       <div className="relative z-10 flex flex-col items-center mt-4 lg:mt-8">
-        <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide">
+        <h1 className="text-blue-600 text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide">
           VR Simulated Training
           <span className="bg-gradient-to-r from-red-500 to-red-600 text-transparent bg-clip-text">
             {" "}
@@ -32,13 +32,13 @@ const HeroSection = () => {
 
           <a
             href="/staff"
-            className="bg-gradient-to-r from-red-500 to-red-600 text-white py-4 px-6 mx-3 rounded-md text-xl sm:text-xl lg:text-2xl"
+            className="bg-gradient-to-r from-blue-500 to-blue-600 text-white py-4 px-6 mx-3 rounded-md text-xl sm:text-xl lg:text-2xl"
           >
             Staff
           </a>
           <a
             href="#"
-            className="bg-gradient-to-r from-red-500 to-red-600 text-white py-4 px-6 mx-3 rounded-md text-xl sm:text-xl lg:text-2xl"
+            className="bg-gradient-to-r from-blue-500 to-blue-600 text-white py-4 px-6 mx-3 rounded-md text-xl sm:text-xl lg:text-2xl"
           >
             Employer
           </a>

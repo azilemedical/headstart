@@ -30,7 +30,7 @@ export const testimonials = [
     user: "Jane Smith",
     company: "Blue Horizon Technologies",
     image: user2,
-    text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life",
+    text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental.",
   },
   {
     user: "David Johnson",
